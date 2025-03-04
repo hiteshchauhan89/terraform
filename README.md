@@ -1,5 +1,4 @@
-# terraform
-# Assignment no 1
+Assignment no 1
 Tasks To Be Performed:
 1. Create an EC2 service in the default subnet in the Ohio region.
 
